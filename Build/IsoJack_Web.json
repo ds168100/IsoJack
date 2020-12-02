@@ -1,0 +1,17 @@
+{
+"companyName": "Spoiled Brats That Are Group 10",
+"productName": "IsoJack",
+"productVersion": "0.1",
+"dataUrl": "IsoJack_Web.data.unityweb",
+"wasmCodeUrl": "IsoJack_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "IsoJack_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "IsoJack_Web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}
